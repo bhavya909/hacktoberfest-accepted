@@ -17,7 +17,7 @@ struct Stack
     int TOP;
 };
 
-/***************/
+/************/
 
 struct Stack S;
 
